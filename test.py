@@ -3,5 +3,5 @@
 # Email:essid@qq.com
 
 import os
-os.getcwd()
-os.listdir()
+myfile=open('qytangfile.txt','w')
+
